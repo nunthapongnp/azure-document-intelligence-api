@@ -1,0 +1,9 @@
+{
+  "AzureDocumentIntelligence": {
+    "Endpoint": "YOUR-ENDPOINT-HERE",
+    "ApiKey": "YOUR-API-KEY-HERE"
+  },
+  "Security": {
+    "SecretKey": "YOUR-SECRET-KEY-HERE"
+  }
+}
